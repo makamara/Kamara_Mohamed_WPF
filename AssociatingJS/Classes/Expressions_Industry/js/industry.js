@@ -14,6 +14,6 @@ var yBand=mBand * 12;  //Annual bandwidth in megabytes
 var gByte=yBand/1024;
 
 
-console.log(gByte);
+alert("The yearly bandwidth is   "+   gByte   +"     gigabytes.");
 
 

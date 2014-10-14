@@ -6,4 +6,4 @@
 //script to calculate the number of fast food purchase
 var weeklyFast = prompt("Weekly visit to McDonald's or Burger King?");
 var yrFast = weeklyFast * 52;
-alert("You have visited fast food restaurant "+yrFast+ "times this year!");
+alert("You have visited McDonald's   "+  yrFast  + "  times this year!");

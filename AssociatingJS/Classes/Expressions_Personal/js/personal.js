@@ -15,4 +15,4 @@ var unitPrice = 0.85;
 var totPrice = totT * unitPrice;
 
 //Print the total cost of tissue per year
-alert("The total cost of "+totT+"tissues is "+totPrice);
+alert("The total cost of " + totT + "  tissues is  $"+ totPrice);
